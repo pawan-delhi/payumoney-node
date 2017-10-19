@@ -1,0 +1,32 @@
+{
+    "name": "payumoney-node",
+    "version": "1.1.6",
+    "description": "The paymoney-node library provides convenient access to the payumoney API from applications written in server-side JavaScript.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pawan-delhi/payumoney-node.git"
+    },
+    "keywords": [
+        "payu",
+        "payumoney",
+        "payment",
+        "credit",
+        "card"
+    ],
+    "author": "pawan kumar <\"pwnkumar016@gmail.com\"> (\"https://www.facebook.com/pawan.sinha.58152\")",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pawan-delhi/payumoney-node/issues"
+    },
+    "homepage": "https://github.com/pawan-delhi/payumoney-node#readme",
+    "dependencies": {
+        "js-sha512": "^0.5.0"
+    },
+    "bundleDependencies": [
+        "js-sha512"
+    ]
+}
