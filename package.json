@@ -1,6 +1,6 @@
 {
     "name": "payumoney-node",
-    "version": "1.1.6",
+    "version": "2.0.0",
     "description": "The paymoney-node library provides convenient access to the payumoney API from applications written in server-side JavaScript.",
     "main": "index.js",
     "scripts": {

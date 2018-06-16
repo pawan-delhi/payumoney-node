@@ -3,7 +3,7 @@ var request = require('request'),
 
 var payment_url = {
     'prod': 'https://secure.payu.in/',
-    'test': 'https://test.payu.in/'
+    'test': 'https://sandboxsecure.payu.in/'
 };
 
 var rest_url = {
