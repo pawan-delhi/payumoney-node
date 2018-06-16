@@ -1,6 +1,6 @@
 {
     "name": "payumoney-node",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "The paymoney-node library provides convenient access to the payumoney API from applications written in server-side JavaScript.",
     "main": "index.js",
     "scripts": {
@@ -15,7 +15,11 @@
         "payumoney",
         "payment",
         "credit",
-        "card"
+        "card",
+        "debit",
+        "banking",
+        "upi",
+        "paytm"
     ],
     "author": "pawan kumar <\"pwnkumar016@gmail.com\"> (\"https://www.facebook.com/pawan.sinha.58152\")",
     "license": "ISC",
