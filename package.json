@@ -1,6 +1,6 @@
 {
     "name": "payumoney-node",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "description": "The paymoney-node library provides convenient access to the payumoney API from applications written in server-side JavaScript.",
     "main": "index.js",
     "scripts": {
@@ -28,9 +28,11 @@
     },
     "homepage": "https://github.com/pawan-delhi/payumoney-node#readme",
     "dependencies": {
-        "js-sha512": "^0.5.0"
+        "js-sha512": "^0.5.0",
+        "request": "^2.88.0"
     },
     "bundleDependencies": [
-        "js-sha512"
+        "js-sha512",
+        "request"
     ]
 }
